@@ -1,4 +1,4 @@
-from xlsx_to_image import main
+from iss_moex import main
 
 print("Hola, Azzrael Code YouTube subs!")
 main()
