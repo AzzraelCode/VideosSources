@@ -1,4 +1,4 @@
-from iss_moex import main
+from ytapi_get_videos import main
 
 print("Hola, Azzrael Code YouTube subs!")
 main()
